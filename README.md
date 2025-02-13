@@ -1,1 +1,1 @@
-# alu-shell
+This repository is about shell script
